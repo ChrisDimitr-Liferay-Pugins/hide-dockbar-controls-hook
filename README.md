@@ -1,2 +1,2 @@
 # hide-dockbar-controls-hook
-Christopher's Hide Dockbar Controls Hook for Liferay
+Hide Dockbar Controls implementation for Liferay v6.0.6. The Dockbar hook has been modified so that all non administartors users not have any controls shown.
